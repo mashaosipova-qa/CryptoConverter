@@ -1,1 +1,1 @@
-# CryptoConverter
+# CurrencyExchangeBot
